@@ -1,183 +1,40 @@
-[19:26:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:26:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:26:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:26:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:26:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:26:49] [Server thread/INFO]: Starting minecraft server version 1.14.2
-[19:26:49] [Server thread/INFO]: Loading properties
-[19:26:49] [Server thread/INFO]: Default game type: SURVIVAL
-[19:26:49] [Server thread/INFO]: Generating keypair
-[19:26:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:26:49] [Server thread/INFO]: Using default channel type
-[19:26:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:26:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:26:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:26:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:26:54] [Server thread/INFO]: Preparing level "world"
-[19:26:54] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:26:56] [Server thread/INFO]: Loaded 6 recipes
-[19:27:00] [Server thread/INFO]: Loaded 811 advancements
-[19:27:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:27:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:03] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:04] [Server thread/INFO]: Preparing spawn area: 0%
-[19:27:04] [Server thread/INFO]: Preparing spawn area: 64%
-[19:27:06] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[19:27:06] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[19:27:06] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[19:27:06] [Server-Worker-8/INFO]: Preparing spawn area: 83%
-[19:27:06] [Server-Worker-8/INFO]: Preparing spawn area: 83%
-[19:27:07] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[19:27:07] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[19:27:08] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[19:27:08] [Server-Worker-7/INFO]: Preparing spawn area: 83%
-[19:27:09] [Server-Worker-1/INFO]: Preparing spawn area: 84%
-[19:27:09] [Server-Worker-4/INFO]: Preparing spawn area: 85%
-[19:27:10] [Server-Worker-1/INFO]: Preparing spawn area: 88%
-[19:27:10] [Server-Worker-3/INFO]: Preparing spawn area: 89%
-[19:27:11] [Server thread/INFO]: Preparing spawn area: 95%
-[19:27:11] [Server thread/INFO]: Preparing spawn area: 99%
-[19:27:11] [Server thread/INFO]: Time elapsed: 11530 ms
-[19:27:11] [Server thread/INFO]: Done (17.727s)! For help, type "help"
-[19:28:29] [Server thread/INFO]: BuThor[/152.66.178.114:53700] logged in with entity id 192 at (-73.5, 76.0, 73.5)
-[19:28:30] [Server thread/INFO]: BuThor joined the game
-[19:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3186ms or 63 ticks behind
-[19:34:50] [Server thread/INFO]: Made BuThor a server operator
-[19:36:43] [Server thread/INFO]: [BuThor: Set the time to 1000]
-[19:37:07] [Server thread/INFO]: BuThor has made the advancement [Stone Age]
-[19:37:19] [Server thread/WARN]: BuThor moved too quickly! 9.621484248140746,3.024424088213692,-0.4734472537515728
-[19:37:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4854ms or 97 ticks behind
-[19:37:55] [Server thread/INFO]: BuThor lost connection: Disconnected
-[19:37:55] [Server thread/INFO]: BuThor left the game
-[19:38:16] [Server thread/INFO]: BuThor[/152.66.178.114:54042] logged in with entity id 6990 at (240.844004921366, 90.0, 74.46794652855823)
-[19:38:16] [Server thread/INFO]: BuThor joined the game
-[19:40:21] [Server thread/INFO]: BuThor has made the advancement [Getting an Upgrade]
-[19:42:44] [Server thread/INFO]: BuThor lost connection: Disconnected
-[19:42:44] [Server thread/INFO]: BuThor left the game
-[19:42:46] [Server thread/INFO]: BuThor[/152.66.178.114:54195] logged in with entity id 9879 at (265.70086417815713, 94.0, 173.4639967649802)
-[19:42:46] [Server thread/INFO]: BuThor joined the game
-[19:43:07] [Server thread/INFO]: <BuThor> asd
-[19:43:15] [Server thread/INFO]: <BuThor> fuck you
-[19:43:41] [Server thread/INFO]: <BuThor> hello
-[19:43:49] [Server thread/INFO]: <BuThor> Nincs mit csinálni
-[19:48:06] [Server thread/INFO]: [BuThor: Set the time to 1000]
-[19:48:10] [Server thread/INFO]: BuThor has made the advancement [Monster Hunter]
-[19:48:11] [Server thread/INFO]: BuThor has made the advancement [Acquire Hardware]
-[19:48:32] [Server thread/INFO]: [BuThor: The difficulty has been set to Peaceful]
-[19:48:47] [Server thread/INFO]: [BuThor: Set own game mode to Creative Mode]
-[19:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
-[19:52:44] [Server thread/INFO]: BuThor has made the advancement [Fishy Business]
-[19:54:10] [Server thread/INFO]: BuThor has reached the goal [Sky's the Limit]
-[19:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3949ms or 78 ticks behind
-[20:05:09] [Server thread/INFO]: bende[/152.66.180.88:50332] logged in with entity id 152624 at (-56.5, 74.0, 63.5)
-[20:05:09] [Server thread/INFO]: bende joined the game
-[20:05:33] [Server thread/INFO]: [BuThor: Teleported BuThor to bende]
-[20:05:33] [Server thread/WARN]: BuThor moved too quickly! -793.8085080302889,9.584664662504238,-145.9118332831646
-[20:05:33] [Server thread/WARN]: BuThor moved too quickly! -793.8085080302889,9.584664662504238,-145.9118332831646
-[20:05:43] [Server thread/INFO]: <BuThor> mukszi
-[20:05:47] [Server thread/INFO]: <bende> ja
-[20:05:47] [Server thread/INFO]: <BuThor> mukszik
-[20:09:15] [Server thread/INFO]: <bende> mi ez a zene
-[20:09:30] [Server thread/INFO]: <BuThor> ilyen az ingame zene
-[20:10:35] [Server thread/INFO]: [BuThor: Set own game mode to Survival Mode]
-[20:11:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
-[20:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7892ms or 157 ticks behind
-[20:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5491ms or 109 ticks behind
-[20:19:38] [Server thread/INFO]: <bende> kellek még ide?
-[20:20:10] [Server thread/INFO]: Unknown command
-[20:20:10] [Server thread/INFO]: nem igazából csak az volt a kérdés, hogy m?ködik-e<--[HERE]
-[20:20:32] [Server thread/INFO]: [Server] nem igazából, a lényeg hogy m?ködik
-[20:20:35] [Server thread/INFO]: bende lost connection: Disconnected
-[20:20:35] [Server thread/INFO]: bende left the game
-[20:20:37] [Server thread/INFO]: BuThor lost connection: Disconnected
-[20:20:37] [Server thread/INFO]: BuThor left the game
-[20:20:44] [Server thread/INFO]: Unknown command
-[20:20:44] [Server thread/INFO]: /close<--[HERE]
-[20:20:51] [Server thread/INFO]: /advancement (grant|revoke)
-[20:20:51] [Server thread/INFO]: /ban <targets> [<reason>]
-[20:20:51] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[20:20:51] [Server thread/INFO]: /banlist [ips|players]
-[20:20:51] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
-[20:20:51] [Server thread/INFO]: /clear [<targets>]
-[20:20:51] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
-[20:20:51] [Server thread/INFO]: /data (get|merge|modify|remove)
-[20:20:51] [Server thread/INFO]: /datapack (disable|enable|list)
-[20:20:51] [Server thread/INFO]: /debug (start|stop)
-[20:20:51] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
-[20:20:51] [Server thread/INFO]: /deop <targets>
-[20:20:51] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
-[20:20:51] [Server thread/INFO]: /effect (clear|give)
-[20:20:51] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[20:20:51] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
-[20:20:51] [Server thread/INFO]: /experience (add|query|set)
-[20:20:51] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
-[20:20:51] [Server thread/INFO]: /forceload (add|query|remove)
-[20:20:51] [Server thread/INFO]: /function <name>
-[20:20:51] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
-[20:20:51] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
-[20:20:51] [Server thread/INFO]: /give <targets> <item> [<count>]
-[20:20:51] [Server thread/INFO]: /help [<command>]
-[20:20:51] [Server thread/INFO]: /kick <targets> [<reason>]
-[20:20:51] [Server thread/INFO]: /kill <targets>
-[20:20:51] [Server thread/INFO]: /list [uuids]
-[20:20:51] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
-[20:20:51] [Server thread/INFO]: /loot (give|insert|replace|spawn)
-[20:20:51] [Server thread/INFO]: /me <action>
-[20:20:51] [Server thread/INFO]: /msg <targets> <message>
-[20:20:51] [Server thread/INFO]: /op <targets>
-[20:20:51] [Server thread/INFO]: /pardon <targets>
-[20:20:51] [Server thread/INFO]: /pardon-ip <target>
-[20:20:51] [Server thread/INFO]: /particle <name> [<pos>]
-[20:20:51] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
-[20:20:51] [Server thread/INFO]: /recipe (give|take)
-[20:20:51] [Server thread/INFO]: /reload
-[20:20:51] [Server thread/INFO]: /replaceitem (block|entity)
-[20:20:51] [Server thread/INFO]: /save-all [flush]
-[20:20:51] [Server thread/INFO]: /save-off
-[20:20:51] [Server thread/INFO]: /save-on
-[20:20:51] [Server thread/INFO]: /say <message>
-[20:20:51] [Server thread/INFO]: /schedule function <function> <time>
-[20:20:51] [Server thread/INFO]: /scoreboard (objectives|players)
-[20:20:51] [Server thread/INFO]: /seed
-[20:20:51] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[20:20:51] [Server thread/INFO]: /setidletimeout <minutes>
-[20:20:51] [Server thread/INFO]: /setworldspawn [<pos>]
-[20:20:51] [Server thread/INFO]: /spawnpoint [<targets>]
-[20:20:51] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
-[20:20:51] [Server thread/INFO]: /stop
-[20:20:51] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
-[20:20:51] [Server thread/INFO]: /summon <entity> [<pos>]
-[20:20:51] [Server thread/INFO]: /tag <targets> (add|list|remove)
-[20:20:51] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
-[20:20:51] [Server thread/INFO]: /teammsg <message>
-[20:20:51] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
-[20:20:51] [Server thread/INFO]: /tell -> msg
-[20:20:51] [Server thread/INFO]: /tellraw <targets> <message>
-[20:20:51] [Server thread/INFO]: /time (add|query|set)
-[20:20:51] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
-[20:20:51] [Server thread/INFO]: /tm -> teammsg
-[20:20:51] [Server thread/INFO]: /tp -> teleport
-[20:20:51] [Server thread/INFO]: /trigger <objective> [add|set]
-[20:20:51] [Server thread/INFO]: /w -> msg
-[20:20:51] [Server thread/INFO]: /weather (clear|rain|thunder)
-[20:20:51] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
-[20:20:51] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
-[20:20:51] [Server thread/INFO]: /xp -> experience
-[20:21:06] [Server thread/INFO]: Stopping the server
-[20:21:06] [Server thread/INFO]: Stopping server
-[20:21:06] [Server thread/INFO]: Saving players
-[20:21:06] [Server thread/INFO]: Saving worlds
-[20:21:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:21:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:21:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:21:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:21:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:21:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:21:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:21:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:21:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:35:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:35:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:35:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:35:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:35:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:35:17] [Server thread/INFO]: Starting minecraft server version 1.14.2
+[20:35:17] [Server thread/INFO]: Loading properties
+[20:35:17] [Server thread/INFO]: Default game type: SURVIVAL
+[20:35:17] [Server thread/INFO]: Generating keypair
+[20:35:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:35:18] [Server thread/INFO]: Using default channel type
+[20:35:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:35:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:35:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:35:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:35:23] [Server thread/INFO]: Preparing level "world"
+[20:35:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:35:25] [Server thread/INFO]: Loaded 6 recipes
+[20:35:29] [Server thread/INFO]: Loaded 811 advancements
+[20:35:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:35:31] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:31] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:31] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:31] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:32] [Server thread/INFO]: Preparing spawn area: 0%
+[20:35:32] [Server thread/INFO]: Time elapsed: 2828 ms
+[20:35:32] [Server thread/INFO]: Done (9.020s)! For help, type "help"
+[20:36:17] [Server thread/INFO]: Stopping server
+[20:36:17] [Server thread/INFO]: Saving players
+[20:36:17] [Server thread/INFO]: Saving worlds
+[20:36:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:36:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:36:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

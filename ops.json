@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "dfe5515c-b7cb-3868-bd71-409b71d503da",
+    "name": "Rougin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "80ae0940-9ef4-4740-bbc7-6ab6e3856b56",
+    "name": "Rougin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "508ebdb2-d40d-3c01-8411-b4cd46a36a76",
     "name": "BuThor",
     "level": 4,

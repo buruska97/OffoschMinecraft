@@ -1,1 +1,1 @@
-java -Xmx1024M -Xms1024M -jar server.jar
+java -Xmx6144M -Xms6144M -jar server.jar

@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2019-06-15 00:46:26 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-06-15 00:46:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-06-15 00:46:26 +0200"
     },
     "done": true
   },
@@ -107,27 +107,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2019-06-15 00:38:12 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_at_least_9_redstone": "2019-06-15 00:31:45 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
+      "has_planks": "2019-06-15 00:38:12 +0200"
     },
     "done": true
   },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2019-06-15 00:36:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-06-15 01:24:01 +0200"
     },
     "done": true
   },
@@ -167,12 +167,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-15 00:25:51 +0200"
@@ -182,6 +176,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-06-15 00:46:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-06-15 01:24:01 +0200"
     },
     "done": true
   },
@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2019-06-15 22:46:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_the_recipe": "2019-06-15 00:40:14 +0200"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-06-15 22:39:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-06-15 00:37:59 +0200"
@@ -305,15 +317,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2019-06-15 00:22:54 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-06-15 00:22:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2019-06-15 00:22:54 +0200"
     },
     "done": true
   },
@@ -431,15 +443,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2019-06-15 00:46:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-06-15 01:24:01 +0200"
     },
     "done": true
   },
@@ -525,12 +537,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2019-06-15 00:24:05 +0200"
@@ -543,21 +549,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-06-15 01:24:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-06-15 01:45:07 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_stained_glass_pane": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
+      "has_nether_wart": "2019-06-15 22:39:59 +0200"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
-      "lava_bucket": "2019-06-15 02:06:11 +0200"
+      "has_glass": "2019-06-15 01:24:01 +0200"
     },
     "done": true
   },
@@ -570,6 +582,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2019-06-15 00:40:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-06-15 02:06:11 +0200"
     },
     "done": true
   },
@@ -603,15 +621,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2019-06-15 00:25:15 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-06-15 00:24:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-06-15 00:25:15 +0200"
     },
     "done": true
   },
@@ -681,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2019-06-15 00:22:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2019-06-15 00:31:45 +0200"
@@ -690,12 +714,6 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-06-15 00:39:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2019-06-15 00:22:19 +0200"
     },
     "done": true
   },
@@ -709,6 +727,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-06-15 00:21:11 +0200",
       "minecraft:creeper": "2019-06-15 01:11:16 +0200",
+      "minecraft:phantom": "2019-06-15 22:33:23 +0200",
       "minecraft:zombie": "2019-06-15 01:11:19 +0200"
     },
     "done": false
@@ -728,6 +747,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2019-06-15 01:08:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2019-06-15 22:46:41 +0200"
     },
     "done": true
   },
@@ -767,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-06-15 22:47:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-15 01:24:01 +0200"
@@ -782,6 +813,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-06-15 00:25:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2019-06-15 22:47:03 +0200"
     },
     "done": true
   },
@@ -893,15 +930,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2019-06-15 01:40:56 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-06-15 00:37:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-06-15 01:40:56 +0200"
     },
     "done": true
   },
@@ -917,15 +954,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2019-06-15 00:24:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-06-15 00:46:26 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_andesite": "2019-06-15 00:24:05 +0200"
+      "has_flint": "2019-06-15 22:46:41 +0200"
     },
     "done": true
   },
@@ -941,15 +984,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2019-06-15 00:40:15 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-06-15 00:22:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2019-06-15 00:40:15 +0200"
     },
     "done": true
   },
@@ -977,15 +1020,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2019-06-15 00:22:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-06-15 01:24:01 +0200"
     },
     "done": true
   },
@@ -1061,15 +1104,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2019-06-15 00:37:59 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-06-15 00:31:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2019-06-15 00:37:59 +0200"
     },
     "done": true
   },
@@ -1097,15 +1140,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2019-06-15 00:25:15 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-06-15 00:22:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-06-15 00:25:15 +0200"
     },
     "done": true
   },
@@ -1127,15 +1170,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2019-06-15 00:46:12 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-06-15 00:31:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-06-15 00:46:12 +0200"
     },
     "done": true
   },
@@ -1251,27 +1294,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2019-06-15 00:46:26 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
-      "has_red_dye": "2019-06-15 01:25:46 +0200"
+      "has_glass": "2019-06-15 01:24:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2019-06-15 22:40:03 +0200"
     },
     "done": true
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-06-15 01:08:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2019-06-15 01:25:46 +0200"
     },
     "done": true
   },
@@ -1293,27 +1342,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2019-06-15 01:40:56 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-06-15 00:46:26 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_glass": "2019-06-15 01:24:01 +0200"
+      "has_planks": "2019-06-15 01:40:56 +0200"
     },
     "done": true
   },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2019-06-15 00:46:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-06-15 01:24:01 +0200"
     },
     "done": true
   },
@@ -1350,6 +1399,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 01:24:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-06-15 22:47:03 +0200"
     },
     "done": true
   },

@@ -1,89 +1,145 @@
-[12:39:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:39:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:39:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:39:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:39:18] [Server thread/INFO]: Starting minecraft server version 1.14.2
-[12:39:18] [Server thread/INFO]: Loading properties
-[12:39:18] [Server thread/INFO]: Default game type: SURVIVAL
-[12:39:18] [Server thread/INFO]: Generating keypair
-[12:39:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:39:19] [Server thread/INFO]: Using default channel type
-[12:39:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:39:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:39:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:39:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:39:25] [Server thread/INFO]: Preparing level "world"
-[12:39:25] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:39:27] [Server thread/INFO]: Loaded 6 recipes
-[12:39:30] [Server thread/INFO]: Loaded 811 advancements
-[12:39:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:39:32] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:32] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:32] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:32] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:32] [Server thread/INFO]: Preparing spawn area: 0%
-[12:39:32] [Server thread/INFO]: Preparing spawn area: 42%
-[12:39:33] [Server thread/INFO]: Time elapsed: 2861 ms
-[12:39:33] [Server thread/INFO]: Done (7.787s)! For help, type "help"
-[12:40:36] [Server thread/INFO]: Rougin[/152.66.179.54:58679] logged in with entity id 305 at (-222.46458145948762, 87.0, -55.45619589041971)
-[12:40:36] [Server thread/INFO]: Rougin joined the game
-[13:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[13:25:32] [Server thread/INFO]: Rougin has made the advancement [Enchanter]
-[13:26:55] [Server thread/INFO]: Rougin lost connection: Disconnected
-[13:26:55] [Server thread/INFO]: Rougin left the game
-[15:14:26] [Server thread/INFO]: Vergillius98[/152.66.179.91:59754] logged in with entity id 35972 at (-211.0105132585513, 83.0, -64.92270927670364)
-[15:14:26] [Server thread/INFO]: Vergillius98 joined the game
-[15:26:25] [Server thread/INFO]: Vergillius98 has made the advancement [Diamonds!]
-[15:38:13] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
-[15:38:13] [Server thread/INFO]: Vergillius98 left the game
-[15:42:49] [Server thread/INFO]: Rougin[/152.66.179.54:59404] logged in with entity id 51691 at (-221.60075810624164, 83.5, -50.997395041292506)
-[15:42:49] [Server thread/INFO]: Rougin joined the game
-[15:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
-[15:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
-[16:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
-[17:04:51] [Server thread/INFO]: Vergillius98[/152.66.179.91:49158] logged in with entity id 119361 at (-172.41760097069016, 11.0, -119.29097041223082)
-[17:04:51] [Server thread/INFO]: Vergillius98 joined the game
-[17:14:29] [Server thread/INFO]: Vergillius98 has made the advancement [Sweet Dreams]
-[17:25:48] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
-[17:25:48] [Server thread/INFO]: Vergillius98 left the game
-[17:25:54] [Server thread/INFO]: Vergillius98[/152.66.179.91:50236] logged in with entity id 138544 at (-198.98385611372584, 11.0, -128.622180778832)
-[17:25:54] [Server thread/INFO]: Vergillius98 joined the game
-[17:41:28] [Server thread/INFO]: Rougin lost connection: Disconnected
-[17:41:28] [Server thread/INFO]: Rougin left the game
-[18:08:59] [Server thread/INFO]: Vergillius98 has made the advancement [We Need to Go Deeper]
-[18:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[18:10:05] [Server thread/INFO]: Vergillius98 has made the advancement [Ol' Betsy]
-[18:10:05] [Server thread/INFO]: Vergillius98 has made the advancement [Take Aim]
-[18:28:42] [Server thread/INFO]: Rougin[/152.66.179.54:60054] logged in with entity id 191862 at (-188.0909942117497, 97.0, -158.16757891881517)
-[18:28:42] [Server thread/INFO]: Rougin joined the game
-[18:34:13] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
-[18:34:13] [Server thread/INFO]: Vergillius98 left the game
-[18:48:57] [Server thread/INFO]: Rougin fell from a high place
-[18:49:41] [Server thread/INFO]: [Rougin: Gave 500 experience points to Rougin]
-[18:49:43] [Server thread/INFO]: [Rougin: Gave 500 experience points to Rougin]
-[18:49:46] [Server thread/INFO]: [Rougin: Gave 500 experience points to Rougin]
-[19:02:37] [Server thread/INFO]: Vergillius98[/152.66.179.91:55811] logged in with entity id 222821 at (-219.4196401449761, 83.0, -46.02885221056191)
-[19:02:37] [Server thread/INFO]: Vergillius98 joined the game
-[19:03:15] [Server thread/INFO]: Rougin fell from a high place
-[19:06:40] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
-[19:06:40] [Server thread/INFO]: Vergillius98 left the game
-[19:10:19] [Server thread/INFO]: [Rougin: Set own game mode to Creative Mode]
-[19:10:49] [Server thread/INFO]: [Rougin: Set own game mode to Survival Mode]
-[19:23:23] [Server thread/INFO]: [Rougin: Set the time to 0]
-[19:28:32] [Server thread/INFO]: Rougin lost connection: Disconnected
-[19:28:32] [Server thread/INFO]: Rougin left the game
-[19:28:40] [Server thread/INFO]: Saving the game (this may take a moment!)
-[19:28:41] [Server thread/INFO]: Saved the game
-[19:28:43] [Server thread/INFO]: Stopping the server
-[19:28:43] [Server thread/INFO]: Stopping server
-[19:28:43] [Server thread/INFO]: Saving players
-[19:28:43] [Server thread/INFO]: Saving worlds
-[19:28:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:28:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:28:43] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:28:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:26:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:26:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:26:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:26:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:26:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:26:43] [Server thread/INFO]: Starting minecraft server version 1.14.2
+[19:26:43] [Server thread/INFO]: Loading properties
+[19:26:43] [Server thread/INFO]: Default game type: SURVIVAL
+[19:26:43] [Server thread/INFO]: Generating keypair
+[19:26:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:26:43] [Server thread/INFO]: Using default channel type
+[19:26:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:26:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:26:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:26:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:26:50] [Server thread/INFO]: Preparing level "world"
+[19:26:51] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:26:52] [Server thread/INFO]: Loaded 6 recipes
+[19:26:54] [Server thread/INFO]: Loaded 811 advancements
+[19:26:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:26:55] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:55] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:55] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:55] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:56] [Server thread/INFO]: Preparing spawn area: 32%
+[19:26:56] [Server thread/INFO]: Time elapsed: 2334 ms
+[19:26:56] [Server thread/INFO]: Done (5.867s)! For help, type "help"
+[19:28:31] [Server thread/INFO]: Rougin[/152.66.179.54:65178] logged in with entity id 303 at (-222.26716304477893, 95.0, -56.07499998807907)
+[19:28:31] [Server thread/INFO]: Rougin joined the game
+[19:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19:30:37] [Server thread/INFO]: kaki[/152.66.179.228:54634] logged in with entity id 2433 at (-222.9400072835621, 95.0, -52.69999998807907)
+[19:30:37] [Server thread/INFO]: kaki joined the game
+[19:32:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[19:32:22] [Server thread/INFO]: kaki has made the advancement [Enchanter]
+[19:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[19:57:24] [Server thread/INFO]: Vergillius98[/152.66.179.91:54306] logged in with entity id 33090 at (-221.76445575706916, 87.0, -54.34377939265551)
+[19:57:24] [Server thread/INFO]: Vergillius98 joined the game
+[20:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[20:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[20:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[20:22:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[20:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
+[20:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[20:42:23] [Server thread/WARN]: Vergillius98 moved too quickly! 0.3466332310845246,0.0,10.020098458464119
+[20:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
+[20:43:14] [Server thread/INFO]: Vergillius98 has made the advancement [Enchanter]
+[20:47:26] [Server thread/WARN]: Vergillius98 moved too quickly! 8.211606691860794,-3.0,-4.94229740556019
+[20:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[20:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[20:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[21:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[21:07:36] [Server thread/WARN]: Vergillius98 moved too quickly! 6.584268603021883,3.2491870787446793,-7.003305088998729
+[21:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[21:12:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[21:15:56] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:15:56] [Server thread/INFO]: Vergillius98 left the game
+[21:16:41] [Server thread/INFO]: Vergillius98[/152.66.179.91:54383] logged in with entity id 129519 at (-234.7617854791088, 20.0, -257.2784715497143)
+[21:16:41] [Server thread/INFO]: Vergillius98 joined the game
+[21:17:15] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:17:15] [Server thread/INFO]: Vergillius98 left the game
+[21:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[21:17:48] [Server thread/INFO]: Vergillius98[/152.66.179.91:54385] logged in with entity id 131114 at (-249.61331307587827, 21.0, -267.1232446969227)
+[21:17:48] [Server thread/INFO]: Vergillius98 joined the game
+[21:18:36] [Server thread/INFO]: Rougin has made the advancement [Cover Me With Diamonds]
+[21:18:37] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:18:37] [Server thread/INFO]: Vergillius98 left the game
+[21:19:24] [Server thread/INFO]: Vergillius98[/152.66.179.91:54391] logged in with entity id 133063 at (-271.65810049906605, 20.0, -250.08784166119767)
+[21:19:24] [Server thread/INFO]: Vergillius98 joined the game
+[21:19:38] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:19:38] [Server thread/INFO]: Vergillius98 left the game
+[21:20:02] [Server thread/INFO]: Vergillius98[/152.66.179.91:54393] logged in with entity id 133964 at (-280.681009094192, 21.0, -265.4564087684117)
+[21:20:02] [Server thread/INFO]: Vergillius98 joined the game
+[21:21:14] [Server thread/INFO]: kaki has made the advancement [Cover Me With Diamonds]
+[21:22:24] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:22:24] [Server thread/INFO]: Vergillius98 left the game
+[21:23:07] [Server thread/INFO]: Vergillius98[/152.66.179.91:54398] logged in with entity id 136876 at (-325.93679169864504, 26.0, -223.7440092367259)
+[21:23:07] [Server thread/INFO]: Vergillius98 joined the game
+[21:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[21:27:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4144ms or 82 ticks behind
+[21:32:53] [Server thread/WARN]: Vergillius98 moved too quickly! 3.363258178868449,-9.464159374955443,-0.18511019666176765
+[21:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[21:32:58] [Server thread/WARN]: Fetching addPacket for removed entity
+[21:33:21] [Server thread/INFO]: <Vergillius98> -47 -25
+[21:33:30] [Server thread/INFO]: <kaki> 38
+[21:36:50] [Server thread/INFO]: Vergillius98 has made the advancement [A Terrible Fortress]
+[21:37:56] [Server thread/WARN]: Vergillius98 moved too quickly! 0.045230170329375596,2.024424088213692,-9.917009676528437
+[21:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3831ms or 76 ticks behind
+[21:38:32] [Server thread/INFO]: Vergillius98 has made the advancement [Into Fire]
+[21:39:21] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:39:21] [Server thread/INFO]: Vergillius98 left the game
+[21:39:27] [Server thread/INFO]: Vergillius98[/152.66.179.91:54410] logged in with entity id 148084 at (-351.0117528888364, 74.0, -164.14420004791097)
+[21:39:27] [Server thread/INFO]: Vergillius98 joined the game
+[21:39:58] [Server thread/WARN]: Fetching addPacket for removed entity
+[21:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[21:43:55] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:43:55] [Server thread/INFO]: Vergillius98 left the game
+[21:44:04] [Server thread/INFO]: Vergillius98[/152.66.179.91:54414] logged in with entity id 149730 at (-326.9703915954101, 74.0, -151.17177804171095)
+[21:44:04] [Server thread/INFO]: Vergillius98 joined the game
+[21:45:59] [Server thread/INFO]: Vergillius98 was burnt to a crisp whilst fighting Blaze
+[21:46:35] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[21:46:35] [Server thread/INFO]: Vergillius98 left the game
+[21:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2465ms or 49 ticks behind
+[21:48:04] [Server thread/WARN]: kaki moved too quickly! -8.680700637494994,4.0,3.5040869109613766
+[21:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[21:50:55] [Server thread/INFO]: BuThor[/152.66.178.114:49791] logged in with entity id 155831 at (-208.94207785563339, 81.5, -67.97603788763257)
+[21:50:55] [Server thread/INFO]: BuThor joined the game
+[21:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[21:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[21:59:23] [Server thread/INFO]: kaki lost connection: Disconnected
+[21:59:23] [Server thread/INFO]: kaki left the game
+[22:03:11] [Server thread/WARN]: BuThor moved too quickly! -7.7111707747685045,1.0,6.394274215724096
+[22:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[22:05:56] [Server thread/INFO]: Rougin has completed the challenge [Return to Sender]
+[22:07:55] [Server thread/INFO]: BuThor has made the advancement [We Need to Go Deeper]
+[22:08:14] [Server thread/WARN]: BuThor moved too quickly! 5.53357556690338,0.2522033402537289,-8.449214344437273
+[22:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[22:09:36] [Server thread/INFO]: BuThor has made the advancement [Take Aim]
+[22:10:35] [Server thread/INFO]: Vergillius98[/152.66.179.91:54488] logged in with entity id 178079 at (-212.54311748790352, 82.0, -47.138163135711125)
+[22:10:35] [Server thread/INFO]: Vergillius98 joined the game
+[22:11:47] [Server thread/INFO]: Rougin lost connection: Disconnected
+[22:11:47] [Server thread/INFO]: Rougin left the game
+[22:12:39] [Server thread/INFO]: BuThor has made the advancement [A Terrible Fortress]
+[22:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[22:13:44] [Server thread/INFO]: Vergillius98 fell from a high place
+[22:13:50] [Server thread/INFO]: Vergillius98 lost connection: Disconnected
+[22:13:50] [Server thread/INFO]: Vergillius98 left the game
+[22:15:16] [Server thread/INFO]: BuThor lost connection: Disconnected
+[22:15:16] [Server thread/INFO]: BuThor left the game
+[22:16:20] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:16:21] [Server thread/INFO]: Saved the game
+[22:16:23] [Server thread/INFO]: Stopping the server
+[22:16:23] [Server thread/INFO]: Stopping server
+[22:16:23] [Server thread/INFO]: Saving players
+[22:16:23] [Server thread/INFO]: Saving worlds
+[22:16:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:16:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:16:23] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:16:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:16:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:16:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:16:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:16:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:16:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

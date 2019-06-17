@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-06-17 20:46:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-06-15 00:36:55 +0200"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-15 00:25:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-06-17 21:37:46 +0200"
     },
     "done": true
   },
@@ -230,6 +242,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 01:24:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-17 21:37:46 +0200"
     },
     "done": true
   },
@@ -374,6 +392,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-06-16 21:43:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-06-17 21:19:28 +0200"
     },
     "done": true
   },
@@ -582,6 +606,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2019-06-16 18:27:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-06-17 20:46:44 +0200"
     },
     "done": true
   },
@@ -944,6 +974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-06-17 21:19:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 01:24:01 +0200"
@@ -952,12 +988,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2019-06-17 21:38:31 +0200",
       "minecraft:skeleton": "2019-06-15 00:21:11 +0200",
       "minecraft:ghast": "2019-06-16 21:03:19 +0200",
+      "minecraft:magma_cube": "2019-06-17 21:38:05 +0200",
       "minecraft:spider": "2019-06-16 18:26:38 +0200",
       "minecraft:creeper": "2019-06-15 01:11:16 +0200",
       "minecraft:phantom": "2019-06-15 22:33:23 +0200",
-      "minecraft:zombie": "2019-06-15 01:11:19 +0200"
+      "minecraft:enderman": "2019-06-17 21:13:12 +0200",
+      "minecraft:zombie": "2019-06-15 01:11:19 +0200",
+      "minecraft:zombie_villager": "2019-06-17 21:29:49 +0200"
     },
     "done": false
   },
@@ -970,6 +1010,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2019-06-16 18:08:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2019-06-17 20:43:14 +0200"
     },
     "done": true
   },
@@ -1090,6 +1136,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-06-15 00:20:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-17 21:37:46 +0200"
     },
     "done": true
   },
@@ -1225,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-17 21:38:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-06-16 18:13:13 +0200"
@@ -1288,6 +1346,18 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-15 01:24:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-06-17 21:36:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-17 21:37:46 +0200"
     },
     "done": true
   },
@@ -1432,6 +1502,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-06-15 00:25:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-06-17 20:46:44 +0200"
     },
     "done": true
   },
@@ -1597,9 +1673,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-06-17 21:38:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-06-15 00:25:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-06-17 21:37:46 +0200"
     },
     "done": true
   },
@@ -1681,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-06-17 21:38:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-06-15 00:22:19 +0200"
@@ -1733,6 +1827,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-06-17 20:46:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-06-17 21:37:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2019-06-16 21:20:40 +0200"
@@ -1754,6 +1860,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2019-06-15 00:38:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-06-17 21:19:28 +0200"
     },
     "done": true
   },
@@ -1922,6 +2034,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-06-15 22:47:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-06-17 21:37:46 +0200"
     },
     "done": true
   },
